@@ -12,7 +12,7 @@ AI kan användas för att automatisera mjukvarusäkerhetstester och identifiera 
 
 Titlar:
 
-Användning av AI för att automatisera mjukvarusäkerhetstester
+Användning av AI för att automatisera mjukvarusäkerhetstester  
 Utveckling av en ny AI-baserad metod för att identifiera säkerhetsproblem i programvara
 
 **** Förebyggande av säkerhetsattacker
@@ -21,7 +21,7 @@ AI kan användas för att identifiera och förhindra säkerhetsattacker innan de
 
 Titlar:
 
-Användning av AI för att förutsäga och förhindra säkerhetsattacker
+Användning av AI för att förutsäga och förhindra säkerhetsattacker  
 Utveckling av en AI-baserad säkerhetslösning för att skydda mot DDoS-attacker
 
 **** Självläkande programvara
@@ -30,7 +30,7 @@ AI kan användas för att skapa självläkande programvara som kan identifiera o
 
 Titlar:
 
-Utveckling av en självläkande programvarulösning för att skydda mot intrång
+Utveckling av en självläkande programvarulösning för att skydda mot intrång  
 Användning av AI för att automatisera säkerhetskorrigeringar
 
 **** Säkerhetsutbildning och medvetenhet
@@ -39,12 +39,14 @@ AI kan användas för att skapa säkerhetsutbildning och medvetenhet som är mer
 
 Titlar:
 
-Utveckling av en AI-baserad säkerhetsutbildningsplattform
+Utveckling av en AI-baserad säkerhetsutbildningsplattform  
 Användning av AI för att skapa mer engagerande säkerhetsutbildningar
 
 Dessa är bara några exempel, och det finns många andra sätt att använda AI för att förbättra säkerheten av en app. När du väljer ett ämne för ditt examensarbete är det viktigt att du väljer ett område som du är intresserad av och som du har tillräckliga kunskaper om. Du bör också se till att ämnet är relevant för din framtida karriär.
 
-**Utifrån den första punkten bad jag Bard att vidareutveckla och skapa en exempel och en kort sammanfattning på ett arbete**
+
+
+### **Utifrån den första punkten bad jag Bard att vidareutveckla och skapa en exempel och en kort sammanfattning på ett arbete**
 
 Först bad jag Bard ladda in och sammanfatta rapportmallen med extensions (på engelska för annars vill den inte läsa från Google Drive) vilket gav en kort sammanfattning av varje rubrik i dokumentet.  
 
@@ -101,5 +103,5 @@ Synopsis:
 
 Detta examensarbete undersöker hur AI kan användas för att automatisera mjukvarusäkerhetstester och förbättra säkerheten i webapplikationer. Arbetet visar att AI har potential att effektivisera säkerhetstestning och identifiera säkerhetsproblem som kan missas av traditionella metoder. Arbetet identifierar också utmaningar och begränsningar med AI-baserade verktyg för säkerhetstestning.
 
-**Tankar om ämnet:**
+### **Tankar om ämnet:**  
 Efter att ha brainstormat med AI:n och tagit fram- och fördjupat mig i några idéer är jag fortfarande inte säker på om det är det här jag vill skriva mitt ex-arbete om. Men jag har inte kommit på något som verkar mer intressant än..
